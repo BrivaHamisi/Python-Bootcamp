@@ -22,4 +22,3 @@ print(type(123.0)) # <class 'float'>
 print(type(True)) # <class 'bool'>
 print(type("Hello")) # <class 'str'>
 
-#Type Casting
